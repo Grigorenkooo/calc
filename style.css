@@ -1,0 +1,47 @@
+.imputs {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+button {
+  width: 90px;
+  height: 30px;
+}
+
+input {
+  width: 350px;
+  height: 30px;
+  margin: 7px;
+}
+span {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  font-size: 30px;
+}
+
+div {
+  margin: 7px;
+}
+.minus {
+  background-color: red;
+  color: black;
+}
+.plus {
+  background-color: green;
+  color: black;
+}
+.del {
+  background-color: yellow;
+  color: black;
+}
+.mnog {
+  background-color: orange;
+  color: black;
+}
